@@ -15,7 +15,7 @@ Now that we have a way to exchange HTTP request (web request) what are the other
 
 Let start with HTML. It's the language of the web. It's how we express information. Every website ever created is expressed using HTML. If we want to publish anything on the web, it will at some point be contained inside of an HTML document.
 
-Once we have an HTML document we want to publish where do we place it to make it available to billions of internet users? Web servers make our content available to everyone on the internet. Web servers are our content publishers (from a technical point of view).
+Once we have an HTML document we want to publish, where do we place it to make it available to billions of internet users? Web servers make our content available to everyone on the internet. Web servers are our content publishers (from a technical point of view).
 
 Our content is now available to the whole web. Yay! What tool can we use to view it? How do we reach it? This is where web browsers come in. Web browsers know how to translate HTML code into something that is pleasant to read for a human.
 
@@ -31,4 +31,4 @@ At its core, these five components make the internet possible. To recap:
 
 The web and the internet are two marvelous pieces of engineering work, but that is not the reason why it’s hard to imagine our life without them today. Their inventors made them free for anyone to use. Creators were able to build on top of the web and internet and reach anyone. This is what makes the web and internet magical.
 
-How can you be one of those creators? Simply know how to  HTML. That's all you need to do! This is why knowing HTML is important.
+How can you be one of those creators? Simply know how to generate HTML. That's all you need to do! This is why knowing HTML is important.
