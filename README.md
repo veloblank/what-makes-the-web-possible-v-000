@@ -9,7 +9,7 @@ To make the web work we need:
 
 Let's start with the last item. If we had all the other components, but we did not have a way to for browsers to send HTTP request to severs the web would not work. The web stands on the shoulders of a giant. That giant is the Internet. **The web is an Internet application, the same way that email is an Internet application**.
 
-**Add other other examples to distinguish between the intenret and the web**
+**Add other examples to distinguish between the intenret and the web**
 
 Now that we have a way to exchange HTTP request (web request) what are the other components for?
 
