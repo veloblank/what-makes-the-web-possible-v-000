@@ -7,9 +7,9 @@ To make the web work we need:
 4. servers and browsers should have an agreed-upon way of exchanging data (HTTP)
 5. a way to send HTTP request to any computer connected to a network (The Internet)
 
-Let's start with the last item. If we had all the other components, but we did not have a way to for browsers to send HTTP request to severs the web would not work. The web stands on the shoulders of a giant. That giant is the Internet. ** The web is an Internet application, the same way that email is an Internet application**.
+Let's start with the last item. If we had all the other components, but we did not have a way to for browsers to send HTTP request to severs the web would not work. The web stands on the shoulders of a giant. That giant is the Internet. **The web is an Internet application, the same way that email is an Internet application**.
 
-**Other examples**
+**Add other other examples to distinguish between the intenret and the web**
 
 Now that we have a way to exchange HTTP request (web request) what are the other components for?
 
