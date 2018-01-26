@@ -22,6 +22,11 @@ Our content is now available to the whole web. Yay! What tool can we use to view
 
 How do web browsers and servers interact? We have an agreed-upon convention for servers and browsers to exchange data. That convention (standard) is HTTP, or, in networking parlance, a "network protocol." It's how web browsers speak to web servers and ask the servers to send them payloads of HTML. _Be careful_: HTTP is like a handshake and a request: "Ms. Server, please tell me what information you have in the file `poodles.html`." Ms. Server then sends it on, indifferent to the content inside the file. That's HTTP, the hype-text transfer protocol, the rules for sending hyper-text, also known as HTML.
 
+![HTTP Request / Response Diagram](https://curriculum-content.s3.amazonaws.com/fswb-assets/what-makes-the-web-possible/request_response.jpg)
+
+_Extremely High-Resolution, Retina &reg;-Compatible Diagram of the HTTP request / response cycle_
+
+
 At its core, these five components make the internet possible. To recap:
 
 1. The internet allows browsers and servers to connect to each other.
