@@ -10,7 +10,7 @@ To make the web work we need:
 Let's start with the last item. If we had all the other components, but we did not have a way to for browsers
 to find servers or for servers to return HTML texts to browsers, there would be no Web. The web stands on the shoulders of a giant. That giant is the Internet. The Internet provides addresses to the clients and servers so that they can exchange information. It also provides the error-correction and reconnection rules (How does the browser know to ask for more data once you get out from underneath a tunnel?).
 
-On top of this address and connection platform, servers and clients exchange information ("the web"). Technologists say that **the web is an Internet application**, but it is not the only one. Just as the address scheme for houses and the roadways can e used to deliver packages or bills, another **application** of post code addressing and roadways is "delivering a pizza." Another **application** is "organizing precincts for voting." Applications work "on top" of lower level constructs.
+On top of this address and connection platform, servers and clients exchange information ("the web"). Technologists say that **the web is an Internet application**, but it is not the only one. Just as the address scheme for houses and the roadways can be used to deliver packages or bills, another **application** of post code addressing and roadways is "delivering a pizza." Another **application** is "organizing precincts for voting." Applications work "on top" of lower level constructs.
 
 Now that we have a way to exchange HTTP requests (web requests), what are the other components for?
 
